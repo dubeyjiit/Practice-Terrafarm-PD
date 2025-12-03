@@ -1,0 +1,1 @@
+Use a separate AWS account / stricter IAM for prod. Keep prod state isolated.
